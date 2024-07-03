@@ -30,7 +30,7 @@ app.use(express.urlencoded({ extended: true }));
 const db = new pg.Client({
     user: "postgres",
     host: "localhost",
-    database: "section-34",
+    database: "booknotes",
     password: "password",
     port: 5432,
 });
