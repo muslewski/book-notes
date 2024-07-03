@@ -1,6 +1,6 @@
 # <img src="https://github.com/muslewski/book-notes/blob/main/public/images/hero_book.png" width="100" height="100" /> Book Notes
 
-A virtual library with user management, built with Node.js, Express, EJS, Axios, and PostgreSQL.
+A virtual library for reflection after reading a book.
 
 ## Showcase
 ![Book Notes](https://raw.githubusercontent.com/muslewski/book-notes/main/presentation.gif)
